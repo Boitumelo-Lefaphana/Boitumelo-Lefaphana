@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Microservices**
 
 - 👯 I’m looking to collaborate on **Handwriting Removal Tool**
 
